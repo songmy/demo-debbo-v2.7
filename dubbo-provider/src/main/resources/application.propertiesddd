@@ -1,0 +1,7 @@
+dubbo.application.name=user-service
+dubbo.registry.address=zookeeper://127.0.0.1:2181
+dubbo.protocol.name=dubbo
+dubbo.protocol.port=20880
+dubbo.monitor.protocol=registry
+dubbo.scan.base-packages=com.xmxl.dubbo.helloworld.provider
+dubbo.metadata-report.address=zookeeper://127.0.0.1:2181
