@@ -21,7 +21,7 @@
         <lombok.version>1.18.4</lombok.version>
         <spring-boot.version>2.1.1.RELEASE</spring-boot.version>
         <zookeeper.version>3.4.13</zookeeper.version>
-        <netty-all.version>4.1.31.Final</netty-all.version>
+        <netty-all.version>4.1.42.Final</netty-all.version>
         <curator-recipes.version>4.0.1</curator-recipes.version>
     </properties>
     <dependencyManagement>
